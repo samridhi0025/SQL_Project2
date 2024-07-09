@@ -1,6 +1,5 @@
 # SQL_Project2
 Case Study
-<p>Welcome to the repository containing my solutions to the SQL case study from Intellipaat's SQL Certification Training. This project showcases my ability to solve real-world business problems using SQL.</p>
     
 <h2>Project Overview</h2>
     
