@@ -1,4 +1,4 @@
-# SQL_Project2
+# SQL_CaseStudy
 Case Study
     
 <h2>Project Overview</h2>
